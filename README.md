@@ -1,8 +1,5 @@
 ## 🏫 Cursando Desenvolvimento de Sistemas no Senai
       
-
-
-**MoisesZhou/MoisesZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱👨‍🎓  Atualmente estou aprendendo Back-End, Frond-End e Banco de Dados.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
