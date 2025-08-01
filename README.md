@@ -1,4 +1,4 @@
-## 🏫 Cursando Desenvolvimento de Sistemas
+## 🏫 Cursando Desenvolvimento de Sistemas no Senai
        Back-End e Frond-End
 
 <!--
